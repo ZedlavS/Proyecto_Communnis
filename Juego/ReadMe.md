@@ -1,4 +1,4 @@
 # CARPETA DEL JUEGO
 
 * Ideas :
-*        juego con distintos minijuegos.
+         *juego con distintos minijuegos.
